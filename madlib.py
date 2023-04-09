@@ -1,5 +1,5 @@
 from textwrap import dedent
-import re, json
+import re
 
 greeting = dedent(
     """
